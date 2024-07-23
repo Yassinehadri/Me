@@ -1,2 +1,2 @@
-# It's-me
+# Me
 👋 Hello! I'm Yassine Hadri, a student with a keen interest in telecommunications, network engineering, and cybersecurity. I'm passionate about exploring the intersection of these fields and am always eager to deepen my understanding of cybersecurity principles and practices. When I'm not delving into coursework or coding projects, you can find me immersing myself in cybersecurity blogs, experimenting with new tools, or engaging in cybersecurity-related discussions online. Let's connect and share our enthusiasm for the ever-evolving world of technology and security!
